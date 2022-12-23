@@ -1,3 +1,5 @@
+_This problem was written by Pramod Anandarao for the 2021 Rochester Math Club Python and Machine Learning Course_
+
 # Problem 1: Saving Christmas
 **Warning! Challenging problem ahead, with a lot of reading!**
 
